@@ -64,7 +64,7 @@ Process
 ----
 1. Set K of K-anonmity
 
-![image](https://github.com/dongcheng12345/DataflyTest/raw/master/images/enterK.jpg)
+![image](https://github.com/dongcheng12345/DataflyTest2/raw/master/images/enterK.PNG)
 
 assume that one entity corresponds to one record.
 
